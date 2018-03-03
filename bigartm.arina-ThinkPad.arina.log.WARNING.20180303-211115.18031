@@ -1,0 +1,53 @@
+Log file created at: 2018/03/03 21:11:15
+Running on machine: arina-ThinkPad
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0303 21:11:15.717173 18031 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1036 vs 0 vs 1036 vs 0;
+W0303 21:13:55.063117 18549 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:14:59.617197 19083 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:14:59.619791 19074 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:15:20.276113 19110 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:15:20.278731 19100 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:15:36.178750 19128 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:15:36.181390 19118 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:16:09.401963 19144 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:16:09.404548 19135 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:16:47.329375 19160 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:16:47.332078 19152 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:17:02.678514 19182 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:17:02.681814 19166 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:17:34.352113 19208 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:17:34.354830 19198 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:18:17.506808 19229 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:18:17.515403 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:18:39.892041 19241 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:18:39.906051 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:18:46.677402 19245 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:18:46.700031 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:18:57.135802 19253 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:18:57.157423 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:19:02.366595 19255 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:19:02.374929 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:19:34.773984 19271 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:19:34.790196 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:22:05.715503 19297 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:22:05.736220 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:22:18.044819 19302 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:22:18.063944 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:22:37.408558 19307 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:22:37.433900 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:24:00.303858 19361 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:24:00.313617 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:24:23.066035 19367 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:24:23.080476 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:25:07.285410 19383 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:25:07.294064 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:26:35.976546 19398 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+E0303 21:26:35.984899 18031 c_interface.cc:59] InvalidOperation :  Dictionary::Gather() can not process batches with empty Batch.token field.
+W0303 21:26:41.558396 19408 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:26:41.570971 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:27:00.070878 19412 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:27:00.084234 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:27:29.769892 19428 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:27:29.780750 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:27:42.502614 19435 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:27:42.514626 19221 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;

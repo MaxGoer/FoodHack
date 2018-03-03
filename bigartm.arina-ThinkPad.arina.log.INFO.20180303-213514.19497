@@ -1,0 +1,9 @@
+Log file created at: 2018/03/03 21:35:14
+Running on machine: arina-ThinkPad
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0303 21:35:14.015218 19497 c_interface.cc:127] Logging enabled to .
+I0303 21:35:14.015440 19497 c_interface.cc:271] Creating MasterModel (id=1)...
+I0303 21:35:14.015748 19497 c_interface.cc:372] Pass f0f59084-08e4-4775-bb8f-3c700135a4c0 to MN4artm4core15MasterComponentEFvRKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE
+I0303 21:35:14.015918 19497 c_interface.cc:386] Pass GatherDictionaryArgs: dictionary_target_name=f0f59084-08e4-4775-bb8f-3c700135a4c0, data_path=batches, symmetric_cooc_values=0 to MN4artm4core15MasterComponentEFvRKNS_20GatherDictionaryArgsEE
+I0303 21:35:14.015986 19497 dictionary_operations.cc:249] Found 2 batches in 'batches' folder
+I0303 21:35:14.055227 19497 dictionary_operations.cc:313] Find 11782 unique tokens in 1036 items

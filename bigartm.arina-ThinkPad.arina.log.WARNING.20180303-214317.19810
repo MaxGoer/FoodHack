@@ -1,0 +1,13 @@
+Log file created at: 2018/03/03 21:43:17
+Running on machine: arina-ThinkPad
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0303 21:43:17.282105 19846 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:43:17.289171 19834 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:43:54.167209 19860 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:43:54.176189 19834 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:44:54.383015 19887 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:44:54.393476 19877 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:45:07.337867 19901 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:45:07.347581 19877 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;
+W0303 21:46:47.564940 19934 helpers.cc:221] File already exists: query/batches/aaaaaa.batch
+W0303 21:46:47.573899 19877 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1 vs 0 vs 1 vs 0;

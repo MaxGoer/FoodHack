@@ -1,0 +1,4 @@
+Log file created at: 2018/03/03 21:26:35
+Running on machine: arina-ThinkPad
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0303 21:26:35.984899 18031 c_interface.cc:59] InvalidOperation :  Dictionary::Gather() can not process batches with empty Batch.token field.
